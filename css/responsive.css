@@ -1,0 +1,620 @@
+/* media quary start here */
+@media (min-width: 320px) and (max-width: 480px){
+/*css start here */
+.header .navbar {
+    padding: 10px 0px;
+}
+button.navbar-toggler {
+    font-size: 14px;
+    padding: 5px 8px;
+    margin: 0px 10px 0px 0px;
+}
+.header .navbar .logo-pic{
+	width: 50%;
+}
+.header .navbar .nav-item .nav-link{
+	font-size: 13px;
+	line-height: 1.7em;
+	font-weight: 500;
+	padding: 5px 0px 5px 0px;
+}
+.header .navbar .nav-item .nav-link:hover{
+	padding: 5px 0px 5px 15px;
+}
+.banner{
+	padding: 60px 0px 20px;
+	text-align: center;
+}
+.banner h1{
+	font-size: 32px;
+	padding: 0px 0px 20px 0px;
+}
+.banner h4 {
+    font-size: 14px;
+    font-weight: 500;
+    padding: 10px 10px 10px 10px;
+    width: 90%;
+    margin: auto;
+}
+.banner p {
+    font-size: 11px;
+    padding: 10px 0px 10px 0px;
+}
+.banner .double-btn .btn a {
+    padding: 8px 16px;
+    font-size: 12px;
+    margin: 0px 5px 0px 0px;
+}
+.service{
+	padding: 60px 0px 40px;
+}
+.service h1 {
+    font-size: 28px;
+    padding: 10px 0px 30px;
+}
+.service .col-lg-4 {
+    padding: 20px 10px;
+}
+.service .card .owl-carousel .item h5 {
+    width: 90%;
+}
+.video h1 {
+    font-size: 20px;
+    text-align: center;
+    margin: auto;
+    width: 80%;
+    padding: 10px 5px;
+}
+.why {
+    padding: 40px 0px;
+}
+.why h1 {
+    font-size: 32px;
+    padding: 10px 0px;
+}
+.why .col-lg-4 {
+    padding: 30px 30px;
+}
+.why .card .item .card-img-top {
+    width: 80%;
+    margin: auto;
+    padding: 30px 0px 10px;
+}
+.why .card .item h5 {
+    width: 90%;
+    font-size: 18px;
+    line-height: 1.2em;
+    padding: 5px 5px;
+}
+.why .card .item p {
+    font-size: 12px;
+    padding: 20px 10px;
+}
+.why .card .item .card-img-top1 {
+    width: 50%;
+    margin: auto;
+    padding: 40px 0px 10px;
+}
+.investment {
+    text-align: center;
+    padding: 40px 0px 40px;
+}
+.investment h1 {
+    font-size: 32px;
+    padding: 200px 0px 20px;
+}
+.investment p {
+    font-size: 11px;
+    padding: 0px 0px 20px 0px;
+}
+.investment .btn a {
+    padding: 8px 16px;
+    font-size: 12px;
+    margin: 0px 5px 0px 0px;
+}
+.secure {
+    padding: 20px 0px 20px;
+    background: url(../Images/Group 6.png) top left no-repeat;
+    background-size: contain;
+    text-align: center;
+}
+.secure h5 {
+    font-size: 14px;
+    padding: 230px 0px 10px;
+}
+.secure h1 {
+    font-size: 32px;
+    padding: 0px 0px 10px;
+}
+.secure p {
+    font-size: 11px;
+    padding: 0px 0px 10px;
+}
+.secure .btn a {
+    padding: 8px 16px;
+    font-size: 12px;
+    margin: 0px 5px 0px 0px;
+}
+.money {
+    margin: 40px 0px;
+    padding: 20px 0px 10px;
+    text-align: center;
+}
+.money h5 {
+    font-size: 14px;
+    padding: 200px 0px 0px;
+}
+.money h1 {
+    font-size: 32px;
+}
+.clint {
+    padding: 20px 0px;
+}
+.clint h1.cl {
+    font-size: 32px;
+    padding: 10px 0px;
+}
+.clint .card .star-icon .fa {
+    font-size: 20px;
+    padding: 0px 2px 5px;
+}
+.clint .card .card-img-top {
+    width: 60%;
+    padding: 20px 20px 0px;
+}
+.clint .card h5 {
+    font-size: 14px;
+    padding: 10px 10px 0px;
+}
+.clint .card p {
+    font-size: 12px;
+    padding: 0px 0px 20px;
+}
+.footer {
+    padding: 40px 0px 0px;
+    text-align: center;
+}
+.footer h5 {
+    font-size: 14px;
+    padding: 0px 0px;
+}
+.inner-footer .footer-bar li {
+    font-size: 11px;
+}
+.footer .col-lg-4 h5 {
+    text-align: center;
+    padding: 20px 0px 20px 0px;
+}
+.inner-footer .inner-icon li a{
+	font-size: 20px;
+	padding: 4px 9px;
+}
+.inner-footer .inner-icon li {
+    display: inline-block;
+    list-style: none;
+    padding: 30px 10px 40px 10px;
+}
+/*css end here */
+}
+/* media quary start here */
+@media (min-width: 481px) and (max-width: 767px){
+/*css start here */
+.header .navbar {
+    padding: 10px 0px;
+}
+button.navbar-toggler {
+    font-size: 15px;
+    padding: 5px 8px;
+    margin: 0px 10px 0px 0px;
+}
+.header .navbar .logo-pic{
+    width: 50%;
+}
+.header .navbar .nav-item .nav-link{
+    font-size: 14px;
+    line-height: 1.7em;
+    font-weight: 500;
+    padding: 5px 0px 5px 0px;
+}
+.header .navbar .nav-item .nav-link:hover{
+    padding: 5px 0px 5px 15px;
+}
+.banner{
+    padding: 60px 0px 20px;
+    text-align: center;
+}
+.banner h1{
+    font-size: 42px;
+    padding: 0px 10px 20px;
+}
+.banner h4 {
+    font-size: 16px;
+    font-weight: 500;
+    padding: 10px 10px 10px 10px;
+    width: 70%;
+    margin: auto;
+}
+.banner p {
+    font-size: 12px;
+    padding: 10px 20px 10px;
+}
+.banner .double-btn .btn a {
+    padding: 10px 20px;
+    font-size: 13px;
+    margin: 0px 5px 0px 0px;
+}
+.service{
+    padding: 70px 0px 40px;
+}
+.service h1 {
+    font-size: 32px;
+    padding: 10px 0px 30px;
+}
+.service .col-lg-4 {
+    padding: 20px 30px;
+}
+.service .card .owl-carousel .item h5 {
+    width: 70%;
+    margin-right: 50px;
+}
+.video {
+    padding: 40px 0px;
+}
+.video h1 {
+    font-size: 24px;
+    text-align: center;
+    margin: auto;
+    background: #fff;
+    width: 60%;
+    padding: 15px;
+}
+.why {
+    padding: 60px 0px;
+}
+.why h1 {
+    font-size: 32px;
+    padding: 10px 0px;
+}
+.why .col-lg-4 {
+    padding: 30px 30px;
+}
+.why .card .item .card-img-top {
+    width: 80%;
+    margin: auto;
+    padding: 40px 0px 10px;
+}
+.why .card .item h5 {
+    width: 70%;
+    font-size: 20px;
+    line-height: 1.2em;
+    padding: 6px 5px;
+}
+.why .card .item p {
+    font-size: 13px;
+    padding: 20px 20px;
+}
+.why .card .item .card-img-top1 {
+    width: 50%;
+    margin: auto;
+    padding: 40px 0px 10px;
+}
+.investment {
+    text-align: center;
+    padding: 40px 0px 40px;
+}
+.investment h1 {
+    font-size: 32px;
+    padding: 330px 0px 21px;
+}
+.investment p {
+    font-size: 12px;
+    padding: 0px 40px 20px;
+}
+.investment .btn a {
+    padding: 10px 20px;
+    font-size: 13px;
+    margin: 0px 5px 0px 0px;
+}
+.secure {
+    padding: 20px 0px 20px;
+    background: url(../Images/Group 6.png) top left no-repeat;
+    background-size: contain;
+    text-align: center;
+}
+.secure h5 {
+    font-size: 16px;
+    padding: 400px 0px 10px;
+}
+.secure h1 {
+    font-size: 32px;
+    padding: 0px 0px 10px;
+}
+.secure p {
+    font-size: 12px;
+    padding: 0px 30px 10px;
+}
+.secure .btn a {
+    padding: 10px 20px;
+    font-size: 13px;
+    margin: 0px 5px 0px 0px;
+}
+.money {
+    margin: 40px 0px;
+    padding: 20px 0px 10px;
+    text-align: center;
+}
+.money h5 {
+    font-size: 16px;
+    padding: 350px 0px 0px;
+}
+.money h1 {
+    font-size: 32px;
+}
+.money p {
+    padding: 0px 30px 20px;
+}
+.clint {
+    padding: 20px 0px;
+}
+.clint h1.cl {
+    font-size: 32px;
+    padding: 10px 0px;
+}
+.clint .card .star-icon .fa {
+    font-size: 25px;
+    padding: 0px 5px 5px;
+}
+.clint .card .card-img-top {
+    width: 50%;
+    padding: 20px 20px 10px;
+}
+.clint .card h5 {
+    font-size: 16px;
+    padding: 10px 10px 0px;
+}
+.clint .card p {
+    font-size: 13px;
+    padding: 0px 30px 20px;
+}
+.footer {
+    padding: 50px 0px 0px;
+    text-align: center;
+}
+.footer h5 {
+    font-size: 15px;
+    padding: 0px 0px;
+}
+.inner-footer .footer-bar li {
+    font-size: 12px;
+}
+.footer .col-lg-4 h5 {
+    text-align: center;
+    padding: 20px 0px 20px 0px;
+}
+
+.inner-footer .inner-icon li a{
+    font-size: 20px;
+    padding: 4px 9px;
+}
+.inner-footer .inner-icon li {
+    display: inline-block;
+    list-style: none;
+    padding: 30px 10px 40px 10px;
+}
+/*css end here */
+}
+@media (min-width: 768px) and (max-width: 1024px){
+/*css start here */
+.header .navbar {
+    padding: 10px 0px;
+}
+button.navbar-toggler {
+    font-size: 18px;
+    padding: 6px 8px;
+    margin: 5px 0px 5px 0px;
+}
+.header .navbar .logo-pic{
+    width: 70%;
+}
+.header .navbar .nav-item .nav-link{
+    font-size: 15px;
+    line-height: 1.7em;
+    font-weight: 500;
+    padding: 5px 0px 5px 0px;
+}
+.header .navbar .nav-item .nav-link:hover{
+    padding: 5px 0px 5px 15px;
+}
+.banner {
+    padding: 80px 0px 60px;
+    text-align: left;
+}
+.banner h1{
+    font-size: 48px;
+    padding: 0px 0px 20px;
+    width: 70%;
+}
+.banner h4 {
+    font-size: 16px;
+    padding: 10px 10px 10px 10px;
+    width: 50%;
+}
+.banner p {
+    font-size: 13px;
+    padding: 10px 0px 10px;
+    width: 70%;
+}
+.banner .double-btn .btn a {
+    padding: 10px 25px;
+    font-size: 14px;
+    margin: 0px 5px 0px 0px;
+}
+.service{
+    padding: 70px 0px 40px;
+}
+.service h1 {
+    font-size: 36px;
+    padding: 10px 0px 30px;
+}
+.service .col-lg-4 {
+    padding: 30px 60px;
+}
+.service .card .owl-carousel .item h5 {
+    width: 50%;
+}
+.service .card .owl-carousel .item .card-img-top {
+    width: 60%;
+    margin: auto;
+    padding: 80px 0px 20px;
+}
+.service .card .owl-carousel .item p {
+    font-size: 14px;
+    line-height: 1.7em;
+    font-weight: 400;
+    padding: 20px 50px;
+}
+.video {
+    padding: 40px 0px;
+}
+.video h1 {
+    font-size: 28px;
+    text-align: center;
+    margin: auto;
+    background: #fff;
+    width: 60%;
+    padding: 15px;
+}
+.why {
+    padding: 60px 0px;
+}
+.why h1 {
+    font-size: 36px;
+    padding: 10px 0px;
+}
+.why .col-lg-4 {
+    padding: 30px 50px;
+}
+.why .card .item .card-img-top {
+    width: 70%;
+    margin: auto;
+    padding: 60px 0px 20px;
+}
+.why .card .item h5 {
+    width: 60%;
+    font-size: 25px;
+    line-height: 1.2em;
+    padding: 8px 5px;
+}
+.why .card .item p {
+    font-size: 14px;
+    padding: 20px 50px;
+}
+.why .card .item .card-img-top1 {
+    width: 50%;
+    margin: auto;
+    padding: 60px 0px 20px;
+}
+.investment {
+    text-align: left;
+    padding: 40px 0px 40px 350px;
+}
+.investment h1 {
+    font-size: 36px;
+    padding: 150px 0px 20px;
+.investment p {
+    font-size: 12px;
+    padding: 0px 40px 20px;
+}
+.investment .btn a {
+    padding: 10px 25px;
+    font-size: 14px;
+    margin: 0px 5px 0px 0px;
+}
+.secure {
+    padding: 20px 0px 20px;
+    background: url(../Images/Group 6.png) top left no-repeat;
+    background-size: contain;
+    text-align: center;
+}
+.secure h5 {
+    font-size: 18px;
+    padding: 400px 0px 10px;
+}
+.secure h1 {
+    font-size: 36px;
+    padding: 0px 0px 10px;
+}
+.secure p {
+    font-size: 13px;
+    padding: 0px 30px 10px;
+}
+.secure .btn a {
+    padding: 10px 25px;
+    font-size: 14px;
+    margin: 0px 5px 0px 0px;
+}
+.money {
+    margin: 40px 0px;
+    padding: 20px 0px 10px;
+    text-align: center;
+}
+.money h5 {
+    font-size: 16px;
+    padding: 350px 0px 0px;
+}
+.money h1 {
+    font-size: 36px;
+}
+.money p {
+    padding: 0px 30px 20px;
+}
+.clint {
+    padding: 20px 0px;
+}
+.clint h1.cl {
+    font-size: 36px;
+    padding: 10px 0px;
+}
+.clint .card .star-icon .fa {
+    font-size: 28px;
+    padding: 0px 5px 5px;
+}
+.clint .card .card-img-top {
+    width: 50%;
+    padding: 20px 20px 10px;
+}
+.clint .card h5 {
+    font-size: 18px;
+    padding: 10px 10px 0px;
+}
+.clint .card p {
+    font-size: 14px;
+    padding: 0px 30px 20px;
+}
+.footer {
+    padding: 50px 0px 0px;
+    text-align: center;
+}
+.footer h5 {
+    font-size: 16px;
+    padding: 0px 0px;
+}
+.inner-footer .footer-bar li {
+    font-size: 13px;
+}
+.footer .col-lg-4 h5 {
+    text-align: center;
+    padding: 20px 0px 20px 0px;
+}
+
+.inner-footer .inner-icon li a{
+    font-size: 22px;
+    padding: 4px 9px;
+}
+.inner-footer .inner-icon li {
+    display: inline-block;
+    list-style: none;
+    padding: 30px 10px 40px 10px;
+}
+/*css end here */
+}
